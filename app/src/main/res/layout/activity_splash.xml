@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/splashRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0B0B0F">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/splash_text"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:letterSpacing="0.04"
+        android:shadowColor="#3B82F6"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="16" />
+
+</FrameLayout>
