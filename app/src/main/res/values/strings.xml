@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peek Shield</string>
+    <string name="splash_text">Made with ❤️ by The Satish</string>
+    <string name="tagline">Keep prying eyes off your screen.</string>
+
+    <string name="permission_needed_msg">Peek Shield needs permission to "Draw over other apps" so it can place a dark privacy shade on top of whatever you are viewing.\n\nWhen you tap the button below, Android will open the exact settings page. Find "Peek Shield" in the list, turn ON the switch (or toggle "Permit drawing over other apps"), then press the back button to return here.</string>
+    <string name="permission_granted_msg">Permission granted. Tap below to turn on the privacy shade. You can then drag, resize, and adjust the clear window, and use the X to exit.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="activate_shade">Activate Privacy Shade</string>
+
+    <string name="tile_label">Peek Shield</string>
+    <string name="tile_hint">Tip: add the \"Peek Shield\" tile to your Quick Settings panel (pull down the notification shade, tap the pencil/edit icon, then drag the Peek Shield tile in) to toggle the shade instantly from anywhere.</string>
+
+    <string name="notif_channel">Peek Shield</string>
+    <string name="notif_channel_desc">Keeps the privacy shade running.</string>
+    <string name="notif_text">Privacy shade is active. Tap the X on the shade to exit.</string>
+</resources>
